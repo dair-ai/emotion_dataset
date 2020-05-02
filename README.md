@@ -31,4 +31,6 @@ Free to use for educational and research purposes. If you use it, please conside
 }
 ```
 
+## Research Opportunities
+We are expanding this dataset to include more languages. If you would like to know more about this research project, find out in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g).
 
