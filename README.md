@@ -6,6 +6,8 @@ Download link: https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl
 
 Here is a [notebook](https://colab.research.google.com/drive/1nwCE6b9PXIKhv2hvbqf1oZKIGkXMTi1X#scrollTo=t23zHggkEpc-) showing how to use it for fine-tuning a pretrained language model for the task of emotion classification.
 
+Here is also a hosted fine-tuned model on HuggingFace which you can directly use for inference in your [NLP pipeline](hosted). 
+
 Feel free to reach out to me at ellfae@gmail.com for more questions about the dataset.
 
 Free to use for educational and research purposes. If you use it, please consider citing:
