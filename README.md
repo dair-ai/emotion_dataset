@@ -6,6 +6,8 @@ Download link: https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl
 
 Here is a [notebook](https://colab.research.google.com/drive/1nwCE6b9PXIKhv2hvbqf1oZKIGkXMTi1X#scrollTo=t23zHggkEpc-) showing how to use it for fine-tuning a pretrained language model for the task of emotion classification.
 
+Here is another [notebook](https://colab.research.google.com/drive/176NSaYjc2eeI-78oLH_F9-YV3po3qQQO?usp=sharing) which shows how to fine-tune T5 model for emotion classification along with other tasks.
+
 Here is also a hosted [fine-tuned model](https://huggingface.co/mrm8488/distilroberta-base-finetuned-sentiment) on HuggingFace which you can directly use for inference in your NLP pipeline. 
 
 Feel free to reach out to me at ellfae@gmail.com for more questions about the dataset.
