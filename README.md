@@ -1,6 +1,6 @@
 # Emotion Dataset
 
-This is a dataset that can be used for emoton classification. It has already been preprocessed based on the approach described in our [paper](https://www.aclweb.org/anthology/D18-1404/). It is also stored as a pandas dataframe and ready to be used in an NLP pipeline.
+This is a dataset that can be used for emotion classification. It has already been preprocessed based on the approach described in our [paper](https://www.aclweb.org/anthology/D18-1404/). It is also stored as a pandas dataframe and ready to be used in an NLP pipeline.
 
 Download link: https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl
 
