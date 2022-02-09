@@ -12,6 +12,8 @@ Here is also a hosted [fine-tuned model](https://huggingface.co/mrm8488/distilro
 
 Feel free to reach out to me at ellfae@gmail.com for more questions about the dataset.
 
+Usage: The dataset should be used for research purposes only. 
+
 Free to use for educational and research purposes. If you use it, please consider citing:
 ```
 @inproceedings{saravia-etal-2018-carer,
@@ -34,5 +36,5 @@ Free to use for educational and research purposes. If you use it, please conside
 ```
 
 ## Research Opportunities
-We are expanding this dataset to include more languages. If you would like to know more about this research project, find out in our Slack group. Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an invite to our Slack group.
+We are expanding this dataset to include more languages. If you would like to know more about this research project, feel free to reach out to me on [Twitter](https://twitter.com/omarsar0).
 
