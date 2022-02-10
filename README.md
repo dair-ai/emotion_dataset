@@ -2,7 +2,15 @@
 
 This is a dataset that can be used for emotion classification. It has already been preprocessed based on the approach described in our [paper](https://www.aclweb.org/anthology/D18-1404/). It is also stored as a pandas dataframe and ready to be used in an NLP pipeline.
 
+Note that the version of the data provided here corresponds to the six emotions variant. 
+
+## Download 
+
+Hugging Face: https://huggingface.co/datasets/emotion
+
 Download link: https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl
+
+## Notebooks
 
 Here is a [notebook](https://colab.research.google.com/drive/1nwCE6b9PXIKhv2hvbqf1oZKIGkXMTi1X#scrollTo=t23zHggkEpc-) showing how to use it for fine-tuning a pretrained language model for the task of emotion classification.
 
@@ -10,11 +18,12 @@ Here is another [notebook](https://colab.research.google.com/drive/176NSaYjc2eeI
 
 Here is also a hosted [fine-tuned model](https://huggingface.co/mrm8488/distilroberta-base-finetuned-sentiment) on HuggingFace which you can directly use for inference in your NLP pipeline. 
 
-Feel free to reach out to me at ellfae@gmail.com for more questions about the dataset.
+Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0 for more questions about the dataset.
 
-Usage: The dataset should be used for research purposes only. 
+## Usage 
 
-Free to use for educational and research purposes. If you use it, please consider citing:
+The dataset should be used for educationald and research purposes only. If you use it, please cite:
+
 ```
 @inproceedings{saravia-etal-2018-carer,
     title = "{CARER}: Contextualized Affect Representations for Emotion Recognition",
