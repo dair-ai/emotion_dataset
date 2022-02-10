@@ -10,6 +10,8 @@ Hugging Face: https://huggingface.co/datasets/emotion
 
 Download link: https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl
 
+Papers with Code Public Leaderboad: https://paperswithcode.com/sota/text-classification-on-emotion
+
 ## Notebooks
 
 Here is a [notebook](https://colab.research.google.com/drive/1nwCE6b9PXIKhv2hvbqf1oZKIGkXMTi1X#scrollTo=t23zHggkEpc-) showing how to use it for fine-tuning a pretrained language model for the task of emotion classification.
