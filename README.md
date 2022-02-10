@@ -2,7 +2,7 @@
 
 This is a dataset that can be used for emotion classification. It has already been preprocessed based on the approach described in our [paper](https://www.aclweb.org/anthology/D18-1404/). It is also stored as a pandas dataframe and ready to be used in an NLP pipeline.
 
-Note that the version of the data provided here corresponds to the six emotions variant. 
+Note that the version of the data provided here corresponds to a six emotions variant that's meant to be used for educational and research purposes. 
 
 ## Download 
 
