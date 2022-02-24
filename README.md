@@ -24,7 +24,7 @@ Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for more
 
 ## Usage 
 
-The dataset should be used for educationald and research purposes only. If you use it, please cite:
+The dataset should be used for educational and research purposes only. If you use it, please cite:
 
 ```
 @inproceedings{saravia-etal-2018-carer,
