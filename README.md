@@ -20,7 +20,7 @@ Here is another [notebook](https://colab.research.google.com/drive/176NSaYjc2eeI
 
 Here is also a hosted [fine-tuned model](https://huggingface.co/mrm8488/distilroberta-base-finetuned-sentiment) on HuggingFace which you can directly use for inference in your NLP pipeline. 
 
-Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0 for more questions about the dataset.
+Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for more questions about the dataset.
 
 ## Usage 
 
