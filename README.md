@@ -8,7 +8,7 @@ Note that the version of the data provided here corresponds to a six emotions va
 
 Hugging Face: https://huggingface.co/datasets/emotion
 
-Download link: https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl
+Download link: https://www.icloud.com/iclouddrive/084E9TMZ_lykn3QhU-kIX1DDQ#merged_training
 
 Papers with Code Public Leaderboad: https://paperswithcode.com/sota/text-classification-on-emotion
 
